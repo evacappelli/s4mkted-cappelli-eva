@@ -1,0 +1,201 @@
+.body{
+  background: rgb(255,255,255);
+  color: rgb(207,207,196);
+  font-size: 20px;
+  font-family:'EB Garamond' , serif;
+  font-family: 'Satisfy', cursive;
+  font-weight: lighter;
+}
+#banner{
+  text-align:left;
+  background-image: url("https://source.unsplash.com/_1iEJewMxKk/1600x900");
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  color: rgb(196,201,224);
+}
+#banner h1 {
+  font-size: 50px;
+  color: rgb(255,255,255);
+  margin-left: 40px;
+  font-family: 'Satisfy'
+}
+#banner p {
+  margin-bottom: 40px;
+  opacity: 0.8;
+  font-size: 30px;
+  color: rgb(255,255,255);
+  margin-left: 40px;
+  font-family: 'EB Garamond'
+}
+#banner a {
+  margin-left: 40px
+}
+.card-white {
+  background-color: rgb(207, 207, 196);
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 4px 6px rgba(50,50,93,.11);
+  padding: 8px;
+  margin: 15px 30px;
+  color: rgb(255,255,255);
+  width: 33%;
+  font-size: 18px;
+}
+.card-white img {
+  margin-bottom: 40px;
+}
+
+.card-white h2{
+  font-family: 'Satisfy', cursive;
+}
+
+.card-white p {
+  font-family: 'EB Garamond', serif;
+}
+
+.card-white2 {
+  background-color: rgb(207, 207, 196);
+  border-rad;ius: 4px;
+  text-align: center;
+  box-shadow: 4px 6px rgba(50,50,93,.11);
+  padding: 15px;
+  margin: 15px 30px;
+  margin-left: 15px;
+  color: rgb(255,255,255);
+  width: 400px;
+  height:400px; 
+}
+.card-white2 h2 {
+  font-family: 'Satisfy', cursive;
+}
+.card-white2 h3{
+  font-size: 20px;
+  text-align: left;
+  font-style: bold;
+  color: rgb(2246,224,234);
+  font-family: 'EB Garamond', serif;
+}
+.card-white2 h4{
+  font-size:15px;
+  text-align: left;
+  font-family: 'EB Garamond', serif;
+}
+.card-white3 {
+  background-color: rgb(207, 207, 196);
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 4px 6px rgba(50,50,93,.11);
+  padding: 15px;
+  margin: 15px 30px;
+  margin-left: 15px;
+  color: rgb(255,255,255);
+  width: 400px;
+  height: 400px;
+  }
+
+  .card-white3 h2 {
+    font-family: 'Satisfy', cursive;
+  }
+.card-white3 h3{
+  font-size: 20px;
+  text-align: center;
+  font-style: bold;
+  color: rgb(255,255,255);
+  font-family: 'EB Garamond', serif;
+}
+.card-white4 {
+  background-color: rgb(207, 207, 196);
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 4px 6px rgba(50,50,93,.11);
+  padding: 15px;
+  margin: 15px 30px;
+  margin-left: 15px;
+  color: rgb(255,255,255);
+  width: 400px;
+  height: 400px;
+}
+.card-white4 h2{
+  font-family: 'Satisfy', cursive;
+}
+.card-white4 h3 {
+  font-size: 20px;
+  text-align: left;
+  font-style: bold;
+  color: rgb(246,224,234);
+  font-family: 'EB Garamond', serif;
+}
+.card-white4 h4 {
+  font-size:15px;
+  text-align: left;
+  font-family: 'EB Garamond', serif;
+} 
+  .card-white5 {
+  background-color: rgb(207, 207, 196);
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 4px 6px rgba(50,50,93,.11);
+  padding: 15px;
+  margin: 15px 30px;
+  margin-left: 15px;
+  color: rgb(255,255,255);
+  width: 400px;
+  height: 400px;
+}
+.card-white5 h2{
+  font-family: 'Satisfy', cursive;
+}
+.card-white5 h3{
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255,255,255);
+  font-family: 'EB Garamond', serif;
+}
+
+.btn-blue {
+  color: rgb(207, 207, 196);
+  background-color: rgb(255,255,255);
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(255, 165, 164,);
+  padding: 15px 20px;
+  font-family: 'EB Garamond', serif;
+}
+.btn-blue:hover {
+  background-color: rgb(255,209,220);
+  color: white;
+}
+#footer{
+  width:100%;
+  height: 15%;
+  left: 0;
+  bottom:0;
+  padding: 10px;
+  background-color: rgb(255, 209, 220);
+}
+#footer p {
+  color: rgb(255,255,255);
+  text-align: left;
+  font-size: 22px;
+  margin: 2px;
+  font-family: 'Satisfy', cursive;
+}
+#footer a {
+  color: rgb(255, 255, 255);
+  font-size: 27px;
+}
+#footer a:hover {
+  color: rgb(207, 207, 196);
+}
+.flex-container{
+  display: flex;}
+}
+ .flexbox-container{
+  display: flex;
+  flex-direction: row;
+}
+.flexbox-container1{
+  display: flex;
+  flex-direction: row;
+}
+   
